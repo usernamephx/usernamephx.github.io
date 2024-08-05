@@ -1,0 +1,67 @@
+.div1 {
+  height: 50px;
+  width: 50px;
+  /* background-color: red; */
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.div1 img {
+  height: 50px;
+  width: 50px;
+}
+
+.div2 {
+  height: 50px;
+  width: 100px;
+  background-color: red;
+  display: inline-block;
+  margin-left: 25%;
+}
+
+.div3 {
+  height: 50px;
+  width: 50px;
+  background-color: yellow;
+  display: inline-block;
+  float: right;
+}
+
+.div4 {
+  height: 70px;
+  /* background-color: grey; */
+  background-image: url("bintang.gif");
+  border: 3px solid black;
+}
+
+.div4 div {
+  height: 45px;
+  width: 45px;
+  /* background-color: brown; */
+  display: inline-block;
+  margin-top: 3px;
+  margin-left: 25px;
+}
+
+.div4 img {
+  height: 45px;
+  width: 45px;
+}
+
+.div4 img:hover{
+  transform: scale(1.3);
+  transition: 1s;
+}
+
+.div5 {
+  height: 400px;
+  width: 400px;
+  /* background-color: blue; */
+  background-image: url("animek.gif");
+  margin-top: 20px;
+}
+
+.div6 img{
+  width: 405px;
+  margin-top: 20px;
+}
